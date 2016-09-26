@@ -1,0 +1,28 @@
+            h1  { color: #DC143C;
+               text-align: center;
+                text-transform: uppercase;
+                text-decoration: underline;
+                }
+            li  {display: inline;
+                text-align: center;
+                padding: 20px 20px;
+                }
+        
+            h2  {color:red; 
+                text-align: center;
+                text-transform: uppercase;
+                }
+            p1  { color: #8A2BE2;
+                
+                }
+            p2  { color: #808080;
+                }
+            P3  { color:#6495ED;
+                }
+            ul  {border-style: double;
+                }
+            .float_col1 {float: left;
+                        margin-right: 10px;
+                        width: 200px;
+                        background-color: #F5F5F5;
+            }

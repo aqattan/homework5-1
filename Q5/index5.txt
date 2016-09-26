@@ -1,0 +1,6 @@
+1-The bug is that the ID and class have the same name 
+2-Header print as blue because it take the style for the closer tag and the myh1 id is not identified in style section.
+3-test2 will be red because it will take the h1 style
+4-test3 will be orange because it will take myh1 class style which is identified .myh1 in style section
+5-test4 will be red because the id is not identified in style section so it will take h1 tag which identified in style.
+6- how are you will be orange because .myh1, (this is text) will take strong tag identified in style section which is green, additional will be purple because the (another) id identified in style section

@@ -1,0 +1,1 @@
+There is no effect unless we close the tag </mytag>

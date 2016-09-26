@@ -1,0 +1,7 @@
+Senario 1: A: add his updated code to local repo. B: pushed his updated code to remote repo (v2)
+Senario 2: A: will pull the new version updated by B (v2). B: will pull nothing.
+Senario 3: A: will add and change line 100 and push it to remote repo (v3).            B: when B try to push, remote repo will tell B there is(V3). 
+Senario 4: B: will pull V3 update it and push it to remote repo as V4.            A: will push V3 but remote repo will tell him there is V4 to              pull.
+Senario 5: remote repo will tell C there is V4 to pull.
+Senario 6: A: will pull v4 update it and push it as V5
+            B: will pull v5 from remote repo.
